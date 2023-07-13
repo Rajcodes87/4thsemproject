@@ -1,0 +1,43 @@
+.header{
+    justify-content: center;
+    margin-left:-10px;
+    height:70px;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color:white;
+    border:3px solid goldenrod;
+    box-shadow:0cap;
+}
+.navlists{
+    color: cornsilk;
+    padding: 15px;
+    cursor:pointer;
+    font-family: cursive;
+    
+
+}
+.header .navlists.register{
+    margin-left:-1000px;
+    font-size: 20px;
+    font-family:cursive;
+    margin-top: -1px;
+    
+    
+}
+.header .navlists.home{
+    margin-left:60px;
+    margin-top:4px;
+    
+}
+.header .navlists.about{
+    
+    margin-top:4px;
+    
+}
+.header .navlists.contact{
+    
+    margin-top:4px;
+    
+}
+
